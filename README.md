@@ -4,8 +4,6 @@ KoiBoi transforms a simple visual metaphor into a rich musical experience:
 
 Koi swim in circular orbits around a pond, each at its own radius and speed
 
-Food appears randomly in the pond, with position determining pitch
-
 Koi eat the food to trigger notes using the PolyPerc engine
 
 Uneaten food ages and fades into a drone layer over time
